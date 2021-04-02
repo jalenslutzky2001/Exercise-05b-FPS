@@ -104,7 +104,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-05b-FPS
-Exercise for MSCH-C220, 29 March 2021
+Exercise for MSCH-C220, 2 April 2021
 
 The first Godot 3D exercise, a simple first-person-controlled character with some CSG terrain.
 
@@ -117,8 +117,8 @@ The shotgun model is from the [Weapon Pack](https://kenney.nl/assets/weapon-pack
 None
 
 ## Future Development
-None
+For future reference in development use and practice.
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
